@@ -85,7 +85,6 @@ input, select, textarea {
 	body {
 		padding-top: 3.5em;
 	}
-
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -1995,7 +1994,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #fff;
+			background-color:#00BFFF;
 		}
 
 		.wrapper.style2 {
@@ -2102,13 +2101,13 @@ input, select, textarea {
 
 	body > article {
 		margin-bottom: 0;
+
 	}
 
 	#top {
 		padding: 10em 0 10em 0;
 		text-align: left;
 	}
-
 		#top .image {
 			border-radius: 100%;
 			width: 20em;
